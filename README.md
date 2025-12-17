@@ -210,3 +210,7 @@ Interpretable
 Robust across resolutions
 
 Compression distance is a strong alternative for exploratory and low-data scientific tasks.
+
+12. Some outputs:
+<img width="1358" height="766" alt="image" src="https://github.com/user-attachments/assets/ee6a164a-fa5f-469d-9206-52c41de7e2d3" />
+
